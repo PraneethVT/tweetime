@@ -1,0 +1,19 @@
+{
+  "name": "tweetime",
+  "version": "1.0.0",
+  "description": "A web app service that provides a graphical UI for when a user tweets over the course of a day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraneethVT/tweetime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PraneethVT/tweetime/issues"
+  },
+  "homepage": "https://github.com/PraneethVT/tweetime#readme"
+}
